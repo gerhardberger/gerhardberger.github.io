@@ -1,13 +1,10 @@
 {
   "applinks": {
+    "apps": [],
     "details": [
       {
-        "appIDs": ["76892T6889.basic.channel.Phylyps-Trak"],
-        "components": [
-          {
-            "/": "/*"
-          }
-        ]
+        "appID": "76892T6889.basic.channel.Phylyps-Trak",
+        "paths": ["/", "*"]
       }
     ]
   }
