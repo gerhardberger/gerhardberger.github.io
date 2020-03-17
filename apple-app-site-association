@@ -5,6 +5,10 @@
       {
         "appID": "76892T6889.basic.channel.Phylyps-Trak",
         "paths": ["/", "*"]
+      },
+      {
+        "appID": "76892T6889.polygon.window.anyad",
+        "paths": ["/", "*"]
       }
     ]
   }
